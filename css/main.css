@@ -18,3 +18,22 @@ a {
     text-decoration: none;
     color: var(--secundary-color);
 }
+.horizontal__padding{
+padding-left: 25px;
+padding-right: 25px;
+}
+.vertical__padding{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+@media(min-width:950px){
+    .horizontal__padding{
+        padding-left: 70px;
+        padding-right: 70px;
+        }
+        .vertical__padding{
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+}
