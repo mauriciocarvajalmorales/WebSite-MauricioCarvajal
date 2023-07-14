@@ -29,11 +29,11 @@ padding-right: 25px;
 
 @media(min-width:950px){
     .horizontal__padding{
-        padding-left: 70px;
-        padding-right: 70px;
+        padding-left: 50px;
+        padding-right: 50px;
         }
         .vertical__padding{
-            padding-top: 70px;
-            padding-bottom: 70px;
+            padding-top: 50px;
+            padding-bottom: 50px;
         }
 }

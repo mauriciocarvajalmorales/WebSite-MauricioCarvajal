@@ -28,23 +28,32 @@
         text-align: center;
         display: flex;
         justify-content: space-between;
-        max-width: 980px;
+        max-width: 1200px;
         margin: 0 auto;
     }
-    
+    .columna__izquierda{
+        margin-top: 60px;
+
+    }
+    .columna__derecha{
+        width: 600px;
+    }
    
     .fotomauro{
         width: 100%;
         max-width: 500px;
-    
-     
+    }
+     .nombre__mauricio{
+        font-size: 34px;
+     }
     }
     .presentacion{
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 500;
-        line-height: 1.1;
-        max-width: 480px;
-        margin: 30px 0;
+        line-height: 1.2;
+        max-width: 600px;
+        margin: 5px 0;
+        text-align: justify;
        
     }
 }
