@@ -17,7 +17,7 @@
     width: 60%;
 }
 
-@media (max-width: 360px){
+@media (max-width: 600px){
     .fotonp{
         margin-top: 20px;
         width: 90%;
