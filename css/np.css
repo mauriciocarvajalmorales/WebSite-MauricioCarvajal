@@ -1,0 +1,18 @@
+.titulo__np{
+    color: var(--secundary-color);
+    text-align: center;
+}
+.np{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: justify;
+}
+.fotonuestroproyecto{
+    
+    text-align: center;
+}
+.fotonp{
+    margin-top: 20px;
+    width: 60%;
+}

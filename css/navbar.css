@@ -15,7 +15,7 @@ margin: 0 auto;
 /*logo*/
 .logo__header{
     height: 50px;
-   margin-left: 50px;
+   margin-left: 35px;
 }
 /*menu*/
 .menu{
@@ -26,10 +26,11 @@ margin: 0 auto;
 }
 .menu li{
     padding: 0 15px;
+    text-transform: uppercase;
 }
 .menu a {
     color: var(--secundary-color:);
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 550;
     line-height:50px;
 }
