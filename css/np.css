@@ -16,3 +16,9 @@
     margin-top: 20px;
     width: 60%;
 }
+
+@media (max-width: 360px){
+    .fotonp{
+        margin-top: 20px;
+        width: 90%;
+}
