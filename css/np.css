@@ -20,7 +20,7 @@
     transition: 2s;
 }
 .fotonp:hover{
-    transform: scale(1.7);
+    transform: scale(1.1);
     transition: 2s;
 }
 @media (max-width: 600px){
@@ -29,7 +29,7 @@
         width: 90%;
 }
 .fotonp:hover{
-    transform: scale(1.1);
+    transform: scale(1.5);
     transition: 2s;
 }
 }
