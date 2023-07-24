@@ -16,10 +16,20 @@
 .fotonp{
     margin-top: 20px;
     width: 60%;
+    cursor: pointer;
+    transition: 2s;
 }
-
+.fotonp:hover{
+    transform: scale(1.4);
+    transition: 2s;
+}
 @media (max-width: 600px){
     .fotonp{
         margin-top: 20px;
         width: 90%;
+}
+.fotonp:hover{
+    transform: scale(1.1);
+    transition: 2s;
+}
 }
