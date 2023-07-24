@@ -49,7 +49,7 @@ margin: 0 auto;
        top: 0;
        width: 100%;
        align-items: center;
-       background-color: var(--menu-mobile-background-color);
+       background-color: var(--primary-color);
        height: 100%;
        overflow-y: auto;
        opacity: 0;
