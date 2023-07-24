@@ -41,6 +41,35 @@ top: -2px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.ingles{
+    border: 3px solid #c50a1f;
+    cursor: pointer;
+    border-radius: 7px;
+    padding: 5px;
+    font-size: 12px;
+  
+}
+.espe{
+    border: 3px solid #c50a1f;
+    cursor: pointer;
+    border-radius: 7px;
+    padding: 5px;
+    font-size: 12px;
+}
+.tecno{
+    border: 3px solid #c50a1f;
+    cursor: pointer;
+    border-radius: 7px;
+    padding: 5px;
+    font-size: 12px;
+}
+.inge{
+    border: 3px solid #c50a1f;
+    cursor: pointer;
+    border-radius: 7px;
+    padding: 5px;
+    font-size: 12px;
+}
 
 @media (min-width: 950px){
     .eduacion__titulo{
@@ -97,5 +126,34 @@ top: -2px;
     .linea::after{
         top: 100%;
         z-index: 1;
+    }
+    .ingles{
+        border: 3px solid #c50a1f;
+        cursor: pointer;
+        border-radius: 10px;
+        padding: 10px;
+        font-size: 18px;
+      
+    }
+    .espe{
+        border: 3px solid #c50a1f;
+        cursor: pointer;
+        border-radius: 10px;
+        padding: 10px;
+        font-size: 18px;
+    }
+    .tecno{
+        border: 3px solid #c50a1f;
+        cursor: pointer;
+        border-radius: 10px;
+        padding: 10px;
+        font-size: 18px;
+    }
+    .inge{
+        border: 3px solid #c50a1f;
+        cursor: pointer;
+        border-radius: 10px;
+        padding: 10px;
+        font-size: 18px;
     }
 }
