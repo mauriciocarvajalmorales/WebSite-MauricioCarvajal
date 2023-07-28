@@ -17,6 +17,10 @@ margin: 0 auto;
     height: 50px;
    margin-left: 35px;
 }
+#eslogan{
+    font-size: 30px;
+    margin-top: 0.1px;
+}
 /*menu*/
 .menu{
     display: flex;
