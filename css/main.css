@@ -7,9 +7,11 @@
     --navbar-shallow-color: #e5e5e5;
     --menu-mobile-background-color:#3a4460;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 section[id]{
-    scroll-margin-top: 70px;
+    scroll-margin-top: 85px;
 }
 body{
     font-family: 'Poppins', sans-serif;
