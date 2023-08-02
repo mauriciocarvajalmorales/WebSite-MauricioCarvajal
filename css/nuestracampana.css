@@ -19,3 +19,7 @@
     width: 100%;
     border: solid;
 }
+.campana__img img:hover{
+    transform: scale(0.8) rotate(15deg);
+    border-radius: 20px;
+}
