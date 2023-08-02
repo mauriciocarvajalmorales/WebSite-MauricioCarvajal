@@ -1,4 +1,9 @@
-
+.nuestracampana{
+    color: var(--secundary-color);
+    font-size: 23px;
+    text-align: center;
+    margin-bottom: 50px;
+}
 
 
 
