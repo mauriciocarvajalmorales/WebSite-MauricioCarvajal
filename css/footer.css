@@ -1,0 +1,11 @@
+.footer__container{
+    background: var(--primary-color);
+    height: 200px;
+}
+.footer{
+    align-items: center;
+}
+.t{
+    color: var(--text-color-inverse);
+    text-align: center;
+}

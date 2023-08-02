@@ -1,0 +1,12 @@
+.contacto{
+    color: var(--secundary-color);
+    font-size: 23px;
+    text-align: center;
+}
+.tex{
+    color: var(--primary-color);
+}
+.texto__contacto{
+    width: 300px;
+    height: 300px;
+}
